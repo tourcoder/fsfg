@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+Detailed description according to the following.
+
+**What feature and where in the system**
+
+
 **Current Status**
  
 
