@@ -1,13 +1,16 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: '[Service/Application]title'
 labels: ''
 assignees: ''
 
 ---
 
 Detailed description according to the following.
+
+**The service or application that you want to submit an issue to**
+
 
 **What feature and where in the system**
 
