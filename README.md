@@ -1,11 +1,11 @@
 # FSFG
-Feature suggestions for GitHub
+Feature suggestions for growing
 
 ### Purpose
-Make GitHub better
+Making Productions better
 
 ### How to Collaborate
 Submit an issue
 
 ### LICENSE
-MIT
+[MIT](LICENSE)
