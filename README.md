@@ -1,8 +1,7 @@
 # FSFG
-Feature suggestions for growing
+What if I were a product manager
 
 ### Purpose
-What if I were a product manager.  
 Making Productions better
 
 ### How to Collaborate
