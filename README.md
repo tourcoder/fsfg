@@ -8,7 +8,7 @@ Feature suggestions for growing
 Making Productions better
 
 ### How to Collaborate
-Submit an issue
+Submitting an issue or discussing it under an issue is welcome.
 
 ### LICENSE
 [MIT](LICENSE)
