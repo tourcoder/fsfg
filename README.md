@@ -8,9 +8,9 @@ Feature suggestions for growing
 Making Productions better
 
 ### How to Collaborate
-- [Submitting an issue](https://github.com/tourcoder/fsfg/issues/new/choose) or discussing it under an issue is welcome.
+- [Submitting an issue](https://github.com/huabin/fsfg/issues/new/choose) or discussing it under an issue is welcome.
 
-- [Checking Issue tracking](https://github.com/tourcoder/fsfg/projects/1).
+- [Checking Issue tracking](https://github.com/huabin/fsfg/projects/1).
 
 ### LICENSE
 [MIT License](LICENSE)
